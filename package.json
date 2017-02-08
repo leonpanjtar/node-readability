@@ -33,6 +33,7 @@
     "debug": "~2.2.0",
     "entities": "~1.1.1",
     "req-fast": "^0.2.14",
+    "request": "^2.79.0",
     "urijs": "^1.18.0"
   },
   "devDependencies": {

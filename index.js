@@ -1,6 +1,6 @@
 'use strict'
 
-var req = require('req-fast')
+var req = require('request')
 var util = require('util')
 var debug = require('debug')('read-art.main')
 var Article = require('./lib/article')
